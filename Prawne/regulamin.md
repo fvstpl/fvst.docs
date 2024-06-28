@@ -7,11 +7,11 @@ icon: shield-lock
 
 ## 1. Postanowienia Ogólne
 
-1.1. Administratorem serwisu jest Miłosz Strzałkowski (znany pod pseudonimem "@doniczka"). \
+1.1. Administratorem serwisu jest Jakub Krzyżanowski (znany pod pseudonimem "strikx"). \
 1.2. Obowiązuje [Polityka Prywatności](/prawne/polityka-prywatnosci) serwisu fvst.pl. \
 1.3. Klient uprawniony i zobowiązany jest do korzystania ze sklepu zgodnie z jego przeznaczeniem. \
 1.4. W przypadku złamania regulaminu przez usługobiorcę, FVST zastrzega sobie prawo do dezaktywowania profilu sklepu lub/oraz profilu klienta. \
-1.5. Administrator serwisu zastrzega sobie możliwość dezaktywacji profilu sklepu lub/oraz profilu klienta bez podawania przyczyny. 
+1.5. Administrator serwisu zastrzega sobie możliwość dezaktywacji profilu sklepu lub/oraz profilu klienta bez podawania przyczyny.
 
 ## 2. Odpowiedzialność
 

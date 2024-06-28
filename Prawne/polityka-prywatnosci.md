@@ -5,147 +5,162 @@ icon: shield-lock
 
 # Polityka Prywatności
 
-1. Informacje ogólne
-   Niniejsza polityka dotyczy Serwisu www, funkcjonującego pod adresem url: https://fvst.pl
+## 1. Informacje ogólne
 
-Operatorem serwisu oraz Administratorem danych osobowych jest: Miłosz Strzałkowski
+1.1. Niniejsza polityka dotyczy Serwisu www, funkcjonującego pod adresem url: https://fvst.pl
+1.2. Operatorem serwisu oraz Administratorem danych osobowych jest: Jakub Krzyżanowski
+1.3. Adres kontaktowy poczty elektronicznej operatora: privacy@fvst.pl
+1.4. Operator jest Administratorem Twoich danych osobowych w odniesieniu do danych podanych dobrowolnie w Serwisie.
+1.5. Serwis wykorzystuje dane osobowe w następujących celach:
 
-Adres kontaktowy poczty elektronicznej operatora: privacy@fvst.pl
+- Prowadzenie newslettera
 
-Operator jest Administratorem Twoich danych osobowych w odniesieniu do danych podanych dobrowolnie w Serwisie.
+- Prezentacja profil użytkownika innym użytkownikom
 
-Serwis wykorzystuje dane osobowe w następujących celach:
+- Wyświetlanie ogłoszeń użytkowników
 
-Prowadzenie newslettera
+- Obsługa zapytań przez formularz
 
-Prezentacja profil użytkownika innym użytkownikom
+- Realizacja zamówionych usług
 
-Wyświetlanie ogłoszeń użytkowników
+- Prezentacja oferty lub informacji
 
-Obsługa zapytań przez formularz
+- Serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowaniu w następujący sposób:
 
-Realizacja zamówionych usług
+- Poprzez dobrowolnie wprowadzone w formularzach dane, które zostają wprowadzone do systemów Operatora.
 
-Prezentacja oferty lub informacji
+- Poprzez zapisywanie w urządzeniach końcowych plików cookie (tzw. „ciasteczka”).
 
-Serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowaniu w następujący sposób:
+---
 
-Poprzez dobrowolnie wprowadzone w formularzach dane, które zostają wprowadzone do systemów Operatora.
+## 2. Wybrane metody ochrony danych stosowane przez Operatora
 
-Poprzez zapisywanie w urządzeniach końcowych plików cookie (tzw. „ciasteczka”).
+2.1 Miejsca logowania i wprowadzania danych osobowych są chronione w warstwie transmisji (certyfikat SSL). Dzięki temu dane osobowe i dane logowania, wprowadzone na stronie, zostają zaszyfrowane w komputerze użytkownika i mogą być odczytane jedynie na docelowym serwerze.
 
-2. Wybrane metody ochrony danych stosowane przez Operatora
-   Miejsca logowania i wprowadzania danych osobowych są chronione w warstwie transmisji (certyfikat SSL). Dzięki temu dane osobowe i dane logowania, wprowadzone na stronie, zostają zaszyfrowane w komputerze użytkownika i mogą być odczytane jedynie na docelowym serwerze.
+2.2 Hasła użytkowników są przechowywane w postaci hashowanej. Funkcja hashująca działa jednokierunkowo - nie jest możliwe odwrócenie jej działania, co stanowi obecnie współczesny standard w zakresie przechowywania haseł użytkowników.
 
-Hasła użytkowników są przechowywane w postaci hashowanej. Funkcja hashująca działa jednokierunkowo - nie jest możliwe odwrócenie jej działania, co stanowi obecnie współczesny standard w zakresie przechowywania haseł użytkowników.
+2.3 Operator okresowo zmienia swoje hasła administracyjne.
 
-Operator okresowo zmienia swoje hasła administracyjne.
+2.4 W celu ochrony danych Operator regularnie wykonuje kopie bezpieczeństwa.
 
-W celu ochrony danych Operator regularnie wykonuje kopie bezpieczeństwa.
+2.5 Istotnym elementem ochrony danych jest regularna aktualizacja wszelkiego oprogramowania, wykorzystywanego przez Operatora do przetwarzania danych osobowych, co w szczególności oznacza regularne aktualizacje komponentów programistycznych.
 
-Istotnym elementem ochrony danych jest regularna aktualizacja wszelkiego oprogramowania, wykorzystywanego przez Operatora do przetwarzania danych osobowych, co w szczególności oznacza regularne aktualizacje komponentów programistycznych.
+---
 
-3. Hosting
-   Serwis jest hostowany (technicznie utrzymywany) na serwerach operatora: ByteHosting.cloud (CVR: 44291002, DANIA)
+## 3.Hosting
 
-Firma hostingowa w celu zapewnienia niezawodności technicznej prowadzi logi na poziomie serwera. Zapisowi mogą podlegać:
+3.1 Serwis jest hostowany (technicznie utrzymywany) na serwerach operatora: ByteHosting.cloud (CVR: 44291002, DANIA)
 
-zasoby określone identyfikatorem URL (adresy żądanych zasobów – stron, plików),
+3.2 Firma hostingowa w celu zapewnienia niezawodności technicznej prowadzi logi na poziomie serwera. Zapisowi mogą podlegać:
 
-czas nadejścia zapytania,
+- zasoby określone identyfikatorem URL (adresy żądanych zasobów – stron, plików),
 
-czas wysłania odpowiedzi,
+- czas nadejścia zapytania,
 
-nazwę stacji klienta – identyfikacja realizowana przez protokół HTTP,
+- czas wysłania odpowiedzi,
 
-informacje o błędach jakie nastąpiły przy realizacji transakcji HTTP,
+- nazwę stacji klienta – identyfikacja realizowana przez protokół HTTP,
 
-adres URL strony poprzednio odwiedzanej przez użytkownika (referer link) – w przypadku gdy przejście do Serwisu nastąpiło przez odnośnik,
+- informacje o błędach jakie nastąpiły przy realizacji transakcji HTTP,
 
-informacje o przeglądarce użytkownika,
+- adres URL strony poprzednio odwiedzanej przez użytkownika (referer link) – w przypadku gdy przejście do Serwisu nastąpiło przez odnośnik,
 
-informacje o adresie IP,
+- informacje o przeglądarce użytkownika,
 
-informacje diagnostyczne związane z procesem samodzielnego zamawiania usług poprzez rejestratory na stronie,
+- informacje o adresie IP,
 
-informacje związane z obsługą poczty elektronicznej kierowanej do Operatora oraz wysyłanej przez Operatora.
+- informacje diagnostyczne związane z procesem samodzielnego zamawiania usług poprzez rejestratory na stronie,
 
-4. Twoje prawa i dodatkowe informacje o sposobie wykorzystania danych
-   W niektórych sytuacjach Administrator ma prawo przekazywać Twoje dane osobowe innym odbiorcom, jeśli będzie to niezbędne do wykonania zawartej z Tobą umowy lub do zrealizowania obowiązków ciążących na Administratorze. Dotyczy to takich grup odbiorców:
+- informacje związane z obsługą poczty elektronicznej kierowanej do Operatora oraz wysyłanej przez Operatora.
 
-firma hostingowa na zasadzie powierzenia
+## 4. Twoje prawa i dodatkowe informacje o sposobie wykorzystania danych
 
-kurierzy
+4.1 W niektórych sytuacjach Administrator ma prawo przekazywać Twoje dane osobowe innym odbiorcom, jeśli będzie to niezbędne do wykonania zawartej z Tobą umowy lub do zrealizowania obowiązków ciążących na Administratorze. Dotyczy to takich grup odbiorców:
 
-kancelarie prawne i windykatorzy
+- firma hostingowa na zasadzie powierzenia
 
-operatorzy płatności
+- kurierzy
 
-operatorzy rozwiązania typu chat online
+- kancelarie prawne i windykatorzy
 
-upoważnieni pracownicy i współpracownicy, którzy korzystają z danych w celu realizacji celu działania strony
+- operatorzy płatności
 
-firmy, świadczące usługi marketingu na rzecz Administratora
+- operatorzy rozwiązania typu chat online
 
-Twoje dane osobowe przetwarzane przez Administratora nie dłużej, niż jest to konieczne do wykonania związanych z nimi czynności określonych osobnymi przepisami (np. o prowadzeniu rachunkowości). W odniesieniu do danych marketingowych dane nie będą przetwarzane dłużej niż przez 3 lata.
+- upoważnieni pracownicy i współpracownicy, którzy korzystają z danych w celu realizacji celu działania strony
 
-Przysługuje Ci prawo żądania od Administratora:
+- firmy, świadczące usługi marketingu na rzecz Administratora
 
-dostępu do danych osobowych Ciebie dotyczących,
+<!-- end of the list -->
 
-ich sprostowania,
+4.2 Twoje dane osobowe przetwarzane przez Administratora nie dłużej, niż jest to konieczne do wykonania związanych z nimi czynności określonych osobnymi przepisami (np. o prowadzeniu rachunkowości). W odniesieniu do danych marketingowych dane nie będą przetwarzane dłużej niż przez 3 lata.
 
-usunięcia,
+4.3 Przysługuje Ci prawo żądania od Administratora:
 
-ograniczenia przetwarzania,
+- dostępu do danych osobowych Ciebie dotyczących,
 
-oraz przenoszenia danych.
+- ich sprostowania,
 
-Przysługuje Ci prawo do złożenia sprzeciwu w zakresie przetwarzania wskazanego w pkt 3.2 wobec przetwarzania danych osobowych w celu wykonania prawnie uzasadnionych interesów realizowanych przez Administratora, w tym profilowania, przy czym prawo sprzeciwu nie będzie mogło być wykonane w przypadku istnienia ważnych prawnie uzasadnionych podstaw do przetwarzania, nadrzędnych wobec Ciebie interesów, praw i wolności, w szczególności ustalenia, dochodzenia lub obrony roszczeń.
+- usunięcia,
 
-Na działania Administratora przysługuje skarga do Prezesa Urzędu Ochrony Danych Osobowych, ul. Stawki 2, 00-193 Warszawa.
+- ograniczenia przetwarzania,
 
-Podanie danych osobowych jest dobrowolne, lecz niezbędne do obsługi Serwisu.
+- oraz przenoszenia danych.
 
-W stosunku do Ciebie mogą być podejmowane czynności polegające na zautomatyzowanym podejmowaniu decyzji, w tym profilowaniu w celu świadczenia usług w ramach zawartej umowy oraz w celu prowadzenia przez Administratora marketingu bezpośredniego.
+<!-- end of the list -->
 
-Dane osobowe nie są przekazywane od krajów trzecich w rozumieniu przepisów o ochronie danych osobowych. Oznacza to, że nie przesyłamy ich poza teren Unii Europejskiej.
+4.4 Przysługuje Ci prawo do złożenia sprzeciwu w zakresie przetwarzania wskazanego w pkt 3.2 wobec przetwarzania danych osobowych w celu wykonania prawnie uzasadnionych interesów realizowanych przez Administratora, w tym profilowania, przy czym prawo sprzeciwu nie będzie mogło być wykonane w przypadku istnienia ważnych prawnie uzasadnionych podstaw do przetwarzania, nadrzędnych wobec Ciebie interesów, praw i wolności, w szczególności ustalenia, dochodzenia lub obrony roszczeń.
 
-5. Informacje w formularzach
-   Serwis zbiera informacje podane dobrowolnie przez użytkownika, w tym dane osobowe, o ile zostaną one podane.
+4.5 Na działania Administratora przysługuje skarga do Prezesa Urzędu Ochrony Danych Osobowych, ul. Stawki 2, 00-193 Warszawa.
 
-Serwis może zapisać informacje o parametrach połączenia (oznaczenie czasu, adres IP).
+4.6 Podanie danych osobowych jest dobrowolne, lecz niezbędne do obsługi Serwisu.
 
-Serwis, w niektórych wypadkach, może zapisać informację ułatwiającą powiązanie danych w formularzu z adresem e-mail użytkownika wypełniającego formularz. W takim wypadku adres e-mail użytkownika pojawia się wewnątrz adresu url strony zawierającej formularz.
+4.7 W stosunku do Ciebie mogą być podejmowane czynności polegające na zautomatyzowanym podejmowaniu decyzji, w tym profilowaniu w celu świadczenia usług w ramach zawartej umowy oraz w celu prowadzenia przez Administratora marketingu bezpośredniego.
 
-Dane podane w formularzu są przetwarzane w celu wynikającym z funkcji konkretnego formularza, np. w celu dokonania procesu obsługi zgłoszenia serwisowego lub kontaktu handlowego, rejestracji usług itp. Każdorazowo kontekst i opis formularza w czytelny sposób informuje, do czego on służy.
+4.8 Dane osobowe nie są przekazywane od krajów trzecich w rozumieniu przepisów o ochronie danych osobowych. Oznacza to, że nie przesyłamy ich poza teren Unii Europejskiej.
 
-6. Logi Administratora
-   Informacje zachowaniu użytkowników w serwisie mogą podlegać logowaniu. Dane te są wykorzystywane w celu administrowania serwisem.
+## 5. Informacje w formularzach
 
-7. Istotne techniki marketingowe
-   Operator stosuje analizę statystyczną ruchu na stronie, poprzez Google Analytics (Google Inc. z siedzibą w USA). Operator nie przekazuje do operatora tej usługi danych osobowych, a jedynie zanonimizowane informacje. Usługa bazuje na wykorzystaniu ciasteczek w urządzeniu końcowym użytkownika. W zakresie informacji o preferencjach użytkownika gromadzonych przez sieć reklamową Google użytkownik może przeglądać i edytować informacje wynikające z plików cookies przy pomocy narzędzia: https://www.google.com/ads/preferences/
+5.1 Serwis zbiera informacje podane dobrowolnie przez użytkownika, w tym dane osobowe, o ile zostaną one podane.
 
-8. Informacja o plikach cookies
-   Serwis korzysta z plików cookies.
+5.2 Serwis może zapisać informacje o parametrach połączenia (oznaczenie czasu, adres IP).
 
-Pliki cookies (tzw. „ciasteczka”) stanowią dane informatyczne, w szczególności pliki tekstowe, które przechowywane są w urządzeniu końcowym Użytkownika Serwisu i przeznaczone są do korzystania ze stron internetowych Serwisu. Cookies zazwyczaj zawierają nazwę strony internetowej, z której pochodzą, czas przechowywania ich na urządzeniu końcowym oraz unikalny numer.
+5.3 Serwis, w niektórych wypadkach, może zapisać informację ułatwiającą powiązanie danych w formularzu z adresem e-mail użytkownika wypełniającego formularz. W takim wypadku adres e-mail użytkownika pojawia się wewnątrz adresu url strony zawierającej formularz.
 
-Podmiotem zamieszczającym na urządzeniu końcowym Użytkownika Serwisu pliki cookies oraz uzyskującym do nich dostęp jest operator Serwisu.
+5.4 Dane podane w formularzu są przetwarzane w celu wynikającym z funkcji konkretnego formularza, np. w celu dokonania procesu obsługi zgłoszenia serwisowego lub kontaktu handlowego, rejestracji usług itp. Każdorazowo kontekst i opis formularza w czytelny sposób informuje, do czego on służy.
 
-Pliki cookies wykorzystywane są w następujących celach:
+## 6. Logi Administratora
 
-utrzymanie sesji użytkownika Serwisu (po zalogowaniu), dzięki której użytkownik nie musi na każdej podstronie Serwisu ponownie wpisywać loginu i hasła;
+6.1 Informacje zachowaniu użytkowników w serwisie mogą podlegać logowaniu. Dane te są wykorzystywane w celu administrowania serwisem.
 
-realizacji celów określonych powyżej w części "Istotne techniki marketingowe";
+## 7. Istotne techniki marketingowe
 
-W ramach Serwisu stosowane są dwa zasadnicze rodzaje plików cookies: „sesyjne” (session cookies) oraz „stałe” (persistent cookies). Cookies „sesyjne” są plikami tymczasowymi, które przechowywane są w urządzeniu końcowym Użytkownika do czasu wylogowania, opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). „Stałe” pliki cookies przechowywane są w urządzeniu końcowym Użytkownika przez czas określony w parametrach plików cookies lub do czasu ich usunięcia przez Użytkownika.
+7.1 Operator stosuje analizę statystyczną ruchu na stronie, poprzez Google Analytics (Google Inc. z siedzibą w USA). Operator nie przekazuje do operatora tej usługi danych osobowych, a jedynie zanonimizowane informacje. Usługa bazuje na wykorzystaniu ciasteczek w urządzeniu końcowym użytkownika. W zakresie informacji o preferencjach użytkownika gromadzonych przez sieć reklamową Google użytkownik może przeglądać i edytować informacje wynikające z plików cookies przy pomocy narzędzia: https://www.google.com/ads/preferences/
 
-Oprogramowanie do przeglądania stron internetowych (przeglądarka internetowa) zazwyczaj domyślnie dopuszcza przechowywanie plików cookies w urządzeniu końcowym Użytkownika. Użytkownicy Serwisu mogą dokonać zmiany ustawień w tym zakresie. Przeglądarka internetowa umożliwia usunięcie plików cookies. Możliwe jest także automatyczne blokowanie plików cookies Szczegółowe informacje na ten temat zawiera pomoc lub dokumentacja przeglądarki internetowej.
+## 8. Informacja o plikach cookies
 
-Ograniczenia stosowania plików cookies mogą wpłynąć na niektóre funkcjonalności dostępne na stronach internetowych Serwisu.
+8.1 Serwis korzysta z plików cookies.
 
-Pliki cookies zamieszczane w urządzeniu końcowym Użytkownika Serwisu wykorzystywane mogą być również przez współpracujące z operatorem Serwisu podmioty, w szczególności dotyczy to firm: Google (Google Inc. z siedzibą w USA), Facebook (Facebook Inc. z siedzibą w USA), Twitter (Twitter Inc. z siedzibą w USA).
+8.2 Pliki cookies (tzw. „ciasteczka”) stanowią dane informatyczne, w szczególności pliki tekstowe, które przechowywane są w urządzeniu końcowym Użytkownika Serwisu i przeznaczone są do korzystania ze stron internetowych Serwisu. Cookies zazwyczaj zawierają nazwę strony internetowej, z której pochodzą, czas przechowywania ich na urządzeniu końcowym oraz unikalny numer.
 
-9. Zarządzanie plikami cookies – jak w praktyce wyrażać i cofać zgodę?
-   Jeśli użytkownik nie chce otrzymywać plików cookies, może zmienić ustawienia przeglądarki. Zastrzegamy, że wyłączenie obsługi plików cookies niezbędnych dla procesów uwierzytelniania, bezpieczeństwa, utrzymania preferencji użytkownika może utrudnić, a w skrajnych przypadkach może uniemożliwić korzystanie ze stron www
+8.3 Podmiotem zamieszczającym na urządzeniu końcowym Użytkownika Serwisu pliki cookies oraz uzyskującym do nich dostęp jest operator Serwisu.
+
+8.4 Pliki cookies wykorzystywane są w następujących celach:
+
+- utrzymanie sesji użytkownika Serwisu (po zalogowaniu), dzięki której użytkownik nie musi na każdej podstronie Serwisu ponownie wpisywać loginu i hasła;
+
+- realizacji celów określonych powyżej w części "Istotne techniki marketingowe";
+
+- W ramach Serwisu stosowane są dwa zasadnicze rodzaje plików cookies: „sesyjne” (session cookies) oraz „stałe” (persistent cookies). Cookies „sesyjne” są plikami tymczasowymi, które przechowywane są w urządzeniu końcowym Użytkownika do czasu wylogowania, opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). „Stałe” pliki cookies przechowywane są w urządzeniu końcowym Użytkownika przez czas określony w parametrach plików cookies lub do czasu ich usunięcia przez Użytkownika.
+
+- Oprogramowanie do przeglądania stron internetowych (przeglądarka internetowa) zazwyczaj domyślnie dopuszcza przechowywanie plików cookies w urządzeniu końcowym Użytkownika. Użytkownicy Serwisu mogą dokonać zmiany ustawień w tym zakresie. Przeglądarka internetowa umożliwia usunięcie plików cookies. Możliwe jest także automatyczne blokowanie plików cookies Szczegółowe informacje na ten temat zawiera pomoc lub dokumentacja przeglądarki internetowej.
+
+- Ograniczenia stosowania plików cookies mogą wpłynąć na niektóre funkcjonalności dostępne na stronach internetowych Serwisu.
+
+<!-- end of the list -->
+
+8.5 Pliki cookies zamieszczane w urządzeniu końcowym Użytkownika Serwisu wykorzystywane mogą być również przez współpracujące z operatorem Serwisu podmioty, w szczególności dotyczy to firm: Google (Google Inc. z siedzibą w USA), Facebook (Facebook Inc. z siedzibą w USA), Twitter (Twitter Inc. z siedzibą w USA).
+
+## 9. Zarządzanie plikami cookies – jak w praktyce wyrażać i cofać zgodę?
+
+9.1 Jeśli użytkownik nie chce otrzymywać plików cookies, może zmienić ustawienia przeglądarki. Zastrzegamy, że wyłączenie obsługi plików cookies niezbędnych dla procesów uwierzytelniania, bezpieczeństwa, utrzymania preferencji użytkownika może utrudnić, a w skrajnych przypadkach może uniemożliwić korzystanie ze stron www

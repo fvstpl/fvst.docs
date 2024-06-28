@@ -4,3 +4,5 @@ icon: rel-file-path
 ---
 
 # Omówienie działania FVST
+
+wip
