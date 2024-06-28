@@ -7,29 +7,29 @@ icon: shield-lock
 
 ## 1. Informacje ogólne
 
-1.1. Niniejsza polityka dotyczy Serwisu www, funkcjonującego pod adresem url: https://fvst.pl
-1.2. Operatorem serwisu oraz Administratorem danych osobowych jest: Jakub Krzyżanowski
-1.3. Adres kontaktowy poczty elektronicznej operatora: privacy@fvst.pl
+1.1. Niniejsza polityka dotyczy Serwisu www, funkcjonującego pod adresem url: https://fvst.pl.
+1.2. Operatorem serwisu oraz Administratorem danych osobowych jest: Jakub Krzyżanowski.
+1.3. Adres kontaktowy poczty elektronicznej operatora: privacy@fvst.pl.
 1.4. Operator jest Administratorem Twoich danych osobowych w odniesieniu do danych podanych dobrowolnie w Serwisie.
 1.5. Serwis wykorzystuje dane osobowe w następujących celach:
 
-- Prowadzenie newslettera
+- prowadzenie newslettera,
 
-- Prezentacja profil użytkownika innym użytkownikom
+- prezentacja profil użytkownika innym użytkownikom,
 
-- Wyświetlanie ogłoszeń użytkowników
+- wyświetlanie ogłoszeń użytkowników,
 
-- Obsługa zapytań przez formularz
+- obsługa zapytań przez formularz,
 
-- Realizacja zamówionych usług
+- realizacja zamówionych usług,
 
-- Prezentacja oferty lub informacji
+- prezentacja oferty lub informacji,
 
-- Serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowaniu w następujący sposób:
+- serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowaniu w następujący sposób:
 
-- Poprzez dobrowolnie wprowadzone w formularzach dane, które zostają wprowadzone do systemów Operatora.
+- poprzez dobrowolnie wprowadzone w formularzach dane, które zostają wprowadzone do systemów Operatora,
 
-- Poprzez zapisywanie w urządzeniach końcowych plików cookie (tzw. „ciasteczka”).
+- poprzez zapisywanie w urządzeniach końcowych plików cookie (tzw. „ciasteczka”).
 
 ---
 
@@ -49,7 +49,7 @@ icon: shield-lock
 
 ## 3.Hosting
 
-3.1 Serwis jest hostowany (technicznie utrzymywany) na serwerach operatora: ByteHosting.cloud (CVR: 44291002, DANIA)
+3.1 Serwis jest hostowany (technicznie utrzymywany) na serwerach operatora: ByteHosting.cloud (CVR: 44291002, DANIA).
 
 3.2 Firma hostingowa w celu zapewnienia niezawodności technicznej prowadzi logi na poziomie serwera. Zapisowi mogą podlegać:
 
@@ -77,19 +77,19 @@ icon: shield-lock
 
 4.1 W niektórych sytuacjach Administrator ma prawo przekazywać Twoje dane osobowe innym odbiorcom, jeśli będzie to niezbędne do wykonania zawartej z Tobą umowy lub do zrealizowania obowiązków ciążących na Administratorze. Dotyczy to takich grup odbiorców:
 
-- firma hostingowa na zasadzie powierzenia
+- firma hostingowa na zasadzie powierzenia,
 
-- kurierzy
+- kurierzy,
 
-- kancelarie prawne i windykatorzy
+- kancelarie prawne i windykatorzy,
 
-- operatorzy płatności
+- operatorzy płatności,
 
-- operatorzy rozwiązania typu chat online
+- operatorzy rozwiązania typu chat online,
 
-- upoważnieni pracownicy i współpracownicy, którzy korzystają z danych w celu realizacji celu działania strony
+- upoważnieni pracownicy i współpracownicy, którzy korzystają z danych w celu realizacji celu działania strony,
 
-- firmy, świadczące usługi marketingu na rzecz Administratora
+- firmy, świadczące usługi marketingu na rzecz Administratora,
 
 <!-- end of the list -->
 
@@ -135,7 +135,7 @@ icon: shield-lock
 
 ## 7. Istotne techniki marketingowe
 
-7.1 Operator stosuje analizę statystyczną ruchu na stronie, poprzez Google Analytics (Google Inc. z siedzibą w USA). Operator nie przekazuje do operatora tej usługi danych osobowych, a jedynie zanonimizowane informacje. Usługa bazuje na wykorzystaniu ciasteczek w urządzeniu końcowym użytkownika. W zakresie informacji o preferencjach użytkownika gromadzonych przez sieć reklamową Google użytkownik może przeglądać i edytować informacje wynikające z plików cookies przy pomocy narzędzia: https://www.google.com/ads/preferences/
+7.1 Operator stosuje analizę statystyczną ruchu na stronie, poprzez Google Analytics (Google Inc. z siedzibą w USA). Operator nie przekazuje do operatora tej usługi danych osobowych, a jedynie zanonimizowane informacje. Usługa bazuje na wykorzystaniu ciasteczek w urządzeniu końcowym użytkownika. W zakresie informacji o preferencjach użytkownika gromadzonych przez sieć reklamową Google użytkownik może przeglądać i edytować informacje wynikające z plików cookies przy pomocy narzędzia: https://www.google.com/ads/preferences/.
 
 ## 8. Informacja o plikach cookies
 
@@ -147,15 +147,15 @@ icon: shield-lock
 
 8.4 Pliki cookies wykorzystywane są w następujących celach:
 
-- utrzymanie sesji użytkownika Serwisu (po zalogowaniu), dzięki której użytkownik nie musi na każdej podstronie Serwisu ponownie wpisywać loginu i hasła;
+- utrzymanie sesji użytkownika Serwisu (po zalogowaniu), dzięki której użytkownik nie musi na każdej podstronie Serwisu ponownie wpisywać loginu i hasła,
 
-- realizacji celów określonych powyżej w części "Istotne techniki marketingowe";
+- realizacji celów określonych powyżej w części "Istotne techniki marketingowe",
 
-- W ramach Serwisu stosowane są dwa zasadnicze rodzaje plików cookies: „sesyjne” (session cookies) oraz „stałe” (persistent cookies). Cookies „sesyjne” są plikami tymczasowymi, które przechowywane są w urządzeniu końcowym Użytkownika do czasu wylogowania, opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). „Stałe” pliki cookies przechowywane są w urządzeniu końcowym Użytkownika przez czas określony w parametrach plików cookies lub do czasu ich usunięcia przez Użytkownika.
+- w ramach Serwisu stosowane są dwa zasadnicze rodzaje plików cookies: „sesyjne” (session cookies) oraz „stałe” (persistent cookies). Cookies „sesyjne” są plikami tymczasowymi, które przechowywane są w urządzeniu końcowym Użytkownika do czasu wylogowania, opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). „Stałe” pliki cookies przechowywane są w urządzeniu końcowym Użytkownika przez czas określony w parametrach plików cookies lub do czasu ich usunięcia przez Użytkownika,
 
-- Oprogramowanie do przeglądania stron internetowych (przeglądarka internetowa) zazwyczaj domyślnie dopuszcza przechowywanie plików cookies w urządzeniu końcowym Użytkownika. Użytkownicy Serwisu mogą dokonać zmiany ustawień w tym zakresie. Przeglądarka internetowa umożliwia usunięcie plików cookies. Możliwe jest także automatyczne blokowanie plików cookies Szczegółowe informacje na ten temat zawiera pomoc lub dokumentacja przeglądarki internetowej.
+- oprogramowanie do przeglądania stron internetowych (przeglądarka internetowa) zazwyczaj domyślnie dopuszcza przechowywanie plików cookies w urządzeniu końcowym Użytkownika. Użytkownicy Serwisu mogą dokonać zmiany ustawień w tym zakresie. Przeglądarka internetowa umożliwia usunięcie plików cookies. Możliwe jest także automatyczne blokowanie plików cookies Szczegółowe informacje na ten temat zawiera pomoc lub dokumentacja przeglądarki internetowej,
 
-- Ograniczenia stosowania plików cookies mogą wpłynąć na niektóre funkcjonalności dostępne na stronach internetowych Serwisu.
+- ograniczenia stosowania plików cookies mogą wpłynąć na niektóre funkcjonalności dostępne na stronach internetowych Serwisu,
 
 <!-- end of the list -->
 
@@ -163,4 +163,4 @@ icon: shield-lock
 
 ## 9. Zarządzanie plikami cookies – jak w praktyce wyrażać i cofać zgodę?
 
-9.1 Jeśli użytkownik nie chce otrzymywać plików cookies, może zmienić ustawienia przeglądarki. Zastrzegamy, że wyłączenie obsługi plików cookies niezbędnych dla procesów uwierzytelniania, bezpieczeństwa, utrzymania preferencji użytkownika może utrudnić, a w skrajnych przypadkach może uniemożliwić korzystanie ze stron www
+9.1 Jeśli użytkownik nie chce otrzymywać plików cookies, może zmienić ustawienia przeglądarki. Zastrzegamy, że wyłączenie obsługi plików cookies niezbędnych dla procesów uwierzytelniania, bezpieczeństwa, utrzymania preferencji użytkownika może utrudnić, a w skrajnych przypadkach może uniemożliwić korzystanie ze stron www.
