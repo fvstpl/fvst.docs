@@ -1,5 +1,5 @@
 ---
-author: Miłosz <milosz@fvst.pl>
+author: Jakub <jakub@fvst.pl>
 icon: shield-lock
 ---
 
