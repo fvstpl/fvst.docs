@@ -8,9 +8,13 @@ icon: shield-lock
 ## 1. Informacje ogólne
 
 1.1. Niniejsza polityka dotyczy Serwisu www, funkcjonującego pod adresem url: https://fvst.pl.
+
 1.2. Operatorem serwisu oraz Administratorem danych osobowych jest: Jakub Krzyżanowski.
+
 1.3. Adres kontaktowy poczty elektronicznej operatora: privacy@fvst.pl.
+
 1.4. Operator jest Administratorem Twoich danych osobowych w odniesieniu do danych podanych dobrowolnie w Serwisie.
+
 1.5. Serwis wykorzystuje dane osobowe w następujących celach:
 
 - prowadzenie newslettera,
